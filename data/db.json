@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "React.js",
+      "body": "This is Best Frontend in the world",
+      "author": "hasan",
+      "id": 1
+    }
+  ]
+}
